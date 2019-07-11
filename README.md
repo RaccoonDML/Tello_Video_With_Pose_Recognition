@@ -1,5 +1,9 @@
 # Tello-SimplePoseRecognition
 
+## 【修改记录】
+ - todo dml change 为已调整部分
+ - todo will change 为待调整部分
+
 This is an example using the Tello SDK v1.3.0.0 and above to receive video stream from Tello camera and do real-time body pose recognition processing on PC. You're welcome to fork/clone/copy this example and let Tello fly creatively.
 
  - Written in Python 2.7
